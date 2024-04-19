@@ -1,4 +1,4 @@
 baseURL = 'https://armsim/'
 languageCode = 'en-us'
 title = 'Armsim'
-theme = 'ananke'
+theme = 'clarity'
